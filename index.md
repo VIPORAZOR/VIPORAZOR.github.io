@@ -9,6 +9,6 @@ These games include:
 
 - PUBG Mobile
 - Fifa
-- Ciritcal Ops
+- Critical Ops
 - Minecraft
 - Krunker.io
